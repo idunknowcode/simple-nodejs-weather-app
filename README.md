@@ -9,3 +9,6 @@ node server.js
 // Now open your browser and visit: localhost:3000
 ```
 ![gif](https://github.com/bmorelli25/simple-nodejs-weather-app/blob/master/giphy.gif?raw=true 'website gif')
+
+
+https://codeburst.io/build-a-weather-website-in-30-minutes-with-node-js-express-openweather-a317f904897b
